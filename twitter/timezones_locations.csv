@@ -1,0 +1,419 @@
+Twitter_TimeZone,Twitter_UTCOffset,Twitter_TimeZone_DisplayValue,CountryCode,TimeZone_Id,Continent,Qualifier_CountryStateProvince,Location_Name,GMTOffset_1Jan,DSTOffset_1Jul,RawOffset,Latitude,Longitude
+,,,CI,Africa/Abidjan,Africa,,Abidjan,0,0,0,5.30966,-4.01266
+,,,GH,Africa/Accra,Africa,,Accra,0,0,0,5.55602,-0.1969
+,,,ET,Africa/Addis_Ababa,Africa,,Addis Ababa,3,3,3,9.02497,38.74689
+,,,DZ,Africa/Algiers,Africa,,Algiers,1,1,1,36.7525,3.04197
+,,,ER,Africa/Asmara,Africa,,Asmara,3,3,3,15.33805,38.93184
+,,,ML,Africa/Bamako,Africa,,Bamako,0,0,0,12.65,-8
+,,,CF,Africa/Bangui,Africa,,Bangui,1,1,1,4.36122,18.55496
+,,,GM,Africa/Banjul,Africa,,Banjul,0,0,0,13.45274,-16.57803
+,,,GW,Africa/Bissau,Africa,,Bissau,0,0,0,11.86357,-15.59767
+,,,MW,Africa/Blantyre,Africa,,Blantyre,2,2,2,-15.78499,35.00854
+,,,CG,Africa/Brazzaville,Africa,,Brazzaville,1,1,1,-4.26613,15.28318
+,,,BI,Africa/Bujumbura,Africa,,Bujumbura,2,2,2,-3.3822,29.3644
+Cairo,7200,(GMT+02:00) Cairo,EG,Africa/Cairo,Africa,,Cairo,2,2,2,30.06263,31.24967
+Casablanca,0,(GMT) Casablanca,MA,Africa/Casablanca,Africa,,Casablanca,0,0,0,33.58831,-7.61138
+,,,ES,Africa/Ceuta,Africa,,Ceuta,1,2,1,35.88933,-5.31979
+,,,GN,Africa/Conakry,Africa,,Conakry,0,0,0,9.53795,-13.67729
+,,,SN,Africa/Dakar,Africa,,Dakar,0,0,0,14.6937,-17.44406
+,,,TZ,Africa/Dar_es_Salaam,Africa,,Dar es Salaam,3,3,3,-6.82349,39.26951
+,,,DJ,Africa/Djibouti,Africa,,Djibouti,3,3,3,11.58901,43.14503
+,,,CM,Africa/Douala,Africa,,Douala,1,1,1,4.04827,9.70428
+,,,EH,Africa/El_Aaiun,Africa,,El Aaiun,0,0,0,27.153611,-13.203333
+,,,SL,Africa/Freetown,Africa,,Freetown,0,0,0,8.484,-13.22994
+,,,BW,Africa/Gaborone,Africa,,Gaborone,2,2,2,-24.65451,25.90859
+Harare,7200,(GMT+02:00) Harare,ZW,Africa/Harare,Africa,,Harare,2,2,2,-17.82772,31.05337
+,,,ZA,Africa/Johannesburg,Africa,,Johannesburg,2,2,2,-26.20227,28.04363
+,,,SS,Africa/Juba,Africa,,Juba,3,3,3,4.85165,31.58247
+,,,UG,Africa/Kampala,Africa,,Kampala,3,3,3,0.31628,32.58219
+,,,SD,Africa/Khartoum,Africa,,Khartoum,3,3,3,15.55177,32.53241
+,,,RW,Africa/Kigali,Africa,,Kigali,2,2,2,-1.94995,30.05885
+,,,CD,Africa/Kinshasa,Africa,,Kinshasa,1,1,1,-4.32758,15.31357
+West Central Africa,3600,(GMT+01:00) West Central Africa,NG,Africa/Lagos,Africa,,Lagos,1,1,1,6.45407,3.39467
+,,,GA,Africa/Libreville,Africa,,Libreville,1,1,1,0.39241,9.45356
+,,,TG,Africa/Lome,Africa,,Lome,0,0,0,6.13748,1.21227
+,,,AO,Africa/Luanda,Africa,,Luanda,1,1,1,-8.83682,13.23432
+,,,CD,Africa/Lubumbashi,Africa,,Lubumbashi,2,2,2,-11.66089,27.47938
+,,,ZM,Africa/Lusaka,Africa,,Lusaka,2,2,2,-15.40669,28.28713
+,,,GQ,Africa/Malabo,Africa,,Malabo,1,1,1,3.75,8.78333
+,,,MZ,Africa/Maputo,Africa,,Maputo,2,2,2,-25.96553,32.58322
+,,,LS,Africa/Maseru,Africa,,Maseru,2,2,2,-29.31667,27.48333
+,,,SZ,Africa/Mbabane,Africa,,Mbabane,2,2,2,-26.31667,31.13333
+,,,SO,Africa/Mogadishu,Africa,,Mogadishu,3,3,3,2.03711,45.34375
+Monrovia,0,(GMT) Monrovia,LR,Africa/Monrovia,Africa,,Monrovia,0,0,0,6.30054,-10.7969
+Nairobi,10800,(GMT+03:00) Nairobi,KE,Africa/Nairobi,Africa,,Nairobi,3,3,3,-1.28333,36.81667
+,,,TD,Africa/Ndjamena,Africa,,Ndjamena,1,1,1,12.113056,15.049167
+,,,NE,Africa/Niamey,Africa,,Niamey,1,1,1,13.51366,2.1098
+,,,MR,Africa/Nouakchott,Africa,,Nouakchott,0,0,0,18.08581,-15.9785
+,,,BF,Africa/Ouagadougou,Africa,,Ouagadougou,0,0,0,12.36566,-1.53388
+,,,BJ,Africa/Porto-Novo,Africa,,Porto-Novo,1,1,1,6.49646,2.60359
+,,,ST,Africa/Sao_Tome,Africa,,Sao Tome,0,0,0,0.33654,6.72732
+,,,LY,Africa/Tripoli,Africa,,Tripoli,2,2,2,32.87519,13.18746
+,,,TN,Africa/Tunis,Africa,,Tunis,1,1,1,36.81897,10.16579
+,,,NA,Africa/Windhoek,Africa,,Windhoek,2,1,1,-22.55941,17.08323
+,,,US,America/Adak,America,,Adak,-10,-9,-10,51.883333,-176.645
+Alaska,-32400,(GMT-09:00) Alaska,US,America/Anchorage,America,,Anchorage,-9,-8,-9,61.21806,-149.90028
+,,,AI,America/Anguilla,America,,Anguilla,-4,-4,-4,18.220833,-63.051667
+,,,AG,America/Antigua,America,,Antigua,-4,-4,-4,17.083333,-61.8
+,,,BR,America/Araguaina,America,,Araguaina,-3,-3,-3,-7.19111,-48.20722
+Buenos Aires,-10800,(GMT-03:00) Buenos Aires,AR,America/Argentina/Buenos_Aires,America,Argentina,Buenos Aires,-3,-3,-3,-34.61315,-58.37723
+,,,AR,America/Argentina/Catamarca,America,Argentina,Catamarca,-3,-3,-3,-28.466667,-65.783333
+,,,AR,America/Argentina/Cordoba,America,Argentina,Cordoba,-3,-3,-3,-31.4135,-64.18105
+,,,AR,America/Argentina/Jujuy,America,Argentina,Jujuy,-3,-3,-3,-24.183333,-65.3
+,,,AR,America/Argentina/La_Rioja,America,Argentina,La Rioja,-3,-3,-3,-29.41105,-66.85067
+,,,AR,America/Argentina/Mendoza,America,Argentina,Mendoza,-3,-3,-3,-32.89084,-68.82717
+,,,AR,America/Argentina/Rio_Gallegos,America,Argentina,Rio Gallegos,-3,-3,-3,-51.62261,-69.21813
+,,,AR,America/Argentina/Salta,America,Argentina,Salta,-3,-3,-3,-24.7859,-65.41166
+,,,AR,America/Argentina/San_Juan,America,Argentina,San Juan,-3,-3,-3,-31.5375,-68.53639
+,,,AR,America/Argentina/San_Luis,America,Argentina,San Luis,-3,-3,-3,-33.29501,-66.33563
+,,,AR,America/Argentina/Tucuman,America,Argentina,Tucuman,-3,-3,-3,-26.94,-65.34
+,,,AR,America/Argentina/Ushuaia,America,Argentina,Ushuaia,-3,-3,-3,-54.8,-68.3
+,,,AW,America/Aruba,America,,Aruba,-4,-4,-4,12.516667,-70.033333
+,,,PY,America/Asuncion,America,,Asuncion,-3,-4,-4,-25.30066,-57.63591
+,,,CA,America/Atikokan,America,,Atikokan,-5,-5,-5,48.75,-91.616667
+,,,BR,America/Bahia,America,,Bahia,-3,-3,-3,-12.974722,-38.476667
+,,,MX,America/Bahia_Banderas,America,,Bahia Banderas,-6,-5,-6,20.8,-105.233333
+,,,BB,America/Barbados,America,,Barbados,-4,-4,-4,13.1,-59.616667
+,,,BR,America/Belem,America,,Belem,-3,-3,-3,-1.45583,-48.50444
+,,,BZ,America/Belize,America,,Belize,-6,-6,-6,17.066667,-88.7
+,,,CA,America/Blanc-Sablon,America,,Blanc-Sablon,-4,-4,-4,51.422639,-57.061472
+,,,BR,America/Boa_Vista,America,,Boa Vista,-4,-4,-4,2.81972,-60.67333
+Bogota,-18000,(GMT-05:00) Bogota,CO,America/Bogota,America,,Bogota,-5,-5,-5,4.60971,-74.08175
+,,,US,America/Boise,America,,Boise,-7,-6,-7,43.6135,-116.20345
+,,,CA,America/Cambridge_Bay,America,,Cambridge Bay,-7,-6,-7,69.117222,-105.053056
+,,,BR,America/Campo_Grande,America,,Campo Grande,-3,-4,-4,-20.44278,-54.64639
+,,,MX,America/Cancun,America,,Cancun,-6,-5,-5,21.17429,-86.84656
+Caracas,-16200,(GMT-04:30) Caracas,VE,America/Caracas,America,,Caracas,-4.5,-4.5,-4.5,10.48801,-66.87919
+,,,GF,America/Cayenne,America,,Cayenne,-3,-3,-3,4.93333,-52.33333
+,,,KY,America/Cayman,America,,Cayman,-5,-5,-5,19.333333,-81.4
+Central Time (US & Canada),-21600,(GMT-06:00) Central Time (US & Canada),US,America/Chicago,America,,Chicago,-6,-5,-6,41.85003,-87.65005
+Chihuahua,-25200,(GMT-07:00) Chihuahua,MX,America/Chihuahua,America,,Chihuahua,-7,-6,-7,28.63528,-106.08889
+,,,CR,America/Costa_Rica,America,,Costa Rica,-6,-6,-6,9.933333,-84.083333
+,,,CA,America/Creston,America,,Creston,-7,-7,-7,49.09,-116.51
+,,,BR,America/Cuiaba,America,,Cuiaba,-3,-4,-4,-15.59611,-56.09667
+,,,CW,America/Curacao,America,,Curacao,-4,-4,-4,12.116667,-68.933333
+,,,GL,America/Danmarkshavn,America,,Danmarkshavn,0,0,0,76.766667,-18.666667
+,,,CA,America/Dawson,America,,Dawson,-8,-7,-8,64.06,-139.410833
+,,,CA,America/Dawson_Creek,America,,Dawson Creek,-7,-7,-7,55.760556,-120.235556
+Mountain Time (US & Canada),-25200,(GMT-07:00) Mountain Time (US & Canada),US,America/Denver,America,,Denver,-7,-6,-7,39.76185,-104.881105
+,,,US,America/Detroit,America,,Detroit,-5,-4,-5,42.33143,-83.04575
+,,,DM,America/Dominica,America,,Dominica,-4,-4,-4,15.3,-61.383333
+,,,CA,America/Edmonton,America,,Edmonton,-7,-6,-7,53.55014,-113.46871
+,,,BR,America/Eirunepe,America,,Eirunepe,-5,-5,-5,-6.66028,-69.87361
+,,,SV,America/El_Salvador,America,,El Salvador,-6,-6,-6,13.666667,-89.166667
+,,,BR,America/Fortaleza,America,,Fortaleza,-3,-3,-3,-3.71722,-38.54306
+,,,CA,America/Glace_Bay,America,,Glace Bay,-4,-3,-4,46.19695,-59.95698
+,,,GL,America/Godthab,America,,Godthab,-3,-2,-3,64.175,-51.738889
+,,,CA,America/Goose_Bay,America,,Goose Bay,-4,-3,-4,53.301944,-60.416667
+,,,TC,America/Grand_Turk,America,,Grand Turk,-5,-4,-4,21.472222,-71.138889
+,,,GD,America/Grenada,America,,Grenada,-4,-4,-4,,
+,,,GP,America/Guadeloupe,America,,Guadeloupe,-4,-4,-4,,
+,,,GT,America/Guatemala,America,,Guatemala,-6,-6,-6,,
+,,,EC,America/Guayaquil,America,,Guayaquil,-5,-5,-5,-2.20584,-79.90795
+,,,GY,America/Guyana,America,,Guyana,-4,-4,-4,,
+Atlantic Time (Canada),-14400,(GMT-04:00) Atlantic Time (Canada),CA,America/Halifax,America,,Halifax,-4,-3,-4,44.64533,-63.57239
+,,,CU,America/Havana,America,,Havana,-5,-4,-5,23.13302,-82.38304
+,,,MX,America/Hermosillo,America,,Hermosillo,-7,-7,-7,29.1026,-110.97732
+Indiana (East),-18000,(GMT-05:00) Indiana (East),US,America/Indiana/Indianapolis,America,Indiana,Indianapolis,-5,-4,-5,39.76838,-86.15804
+,,,US,America/Indiana/Knox,America,Indiana,Knox,-6,-5,-6,,
+,,,US,America/Indiana/Marengo,America,Indiana,Marengo,-5,-4,-5,,
+,,,US,America/Indiana/Petersburg,America,Indiana,Petersburg,-5,-4,-5,,
+,,,US,America/Indiana/Tell_City,America,Indiana,Tell City,-6,-5,-6,,
+,,,US,America/Indiana/Vevay,America,Indiana,Vevay,-5,-4,-5,,
+,,,US,America/Indiana/Vincennes,America,Indiana,Vincennes,-5,-4,-5,38.67727,-87.52863
+,,,US,America/Indiana/Winamac,America,Indiana,Winamac,-5,-4,-5,,
+,,,CA,America/Inuvik,America,,Inuvik,-7,-6,-7,,
+,,,CA,America/Iqaluit,America,,Iqaluit,-5,-4,-5,,
+,,,JM,America/Jamaica,America,,Jamaica,-5,-5,-5,,
+,,,US,America/Juneau,America,,Juneau,-9,-8,-9,58.30194,-134.41972
+,,,US,America/Kentucky/Louisville,America,Kentucky,Louisville,-5,-4,-5,38.25424,-85.75941
+,,,US,America/Kentucky/Monticello,America,Kentucky,Monticello,-5,-4,-5,,
+,,,BQ,America/Kralendijk,America,,Kralendijk,-4,-4,-4,12.15,-68.26667
+La Paz,-14400,(GMT-04:00) La Paz,BO,America/La_Paz,America,,La Paz,-4,-4,-4,-16.5,-68.15
+Lima,-18000,(GMT-05:00) Lima,PE,America/Lima,America,,Lima,-5,-5,-5,-12.04318,-77.02824
+Pacific Time (US & Canada),-28800,(GMT-08:00) Pacific Time (US & Canada),US,America/Los_Angeles,America,,Los Angeles,-8,-7,-8,34.05223,-118.24368
+,,,SX,America/Lower_Princes,America,,Lower Princes,-4,-4,-4,,
+,,,BR,America/Maceio,America,,Maceio,-3,-3,-3,-9.66583,-35.73528
+Central America,-21600,(GMT-06:00) Central America,NI,America/Managua,America,,Managua,-6,-6,-6,12.13282,-86.2504
+,,,BR,America/Manaus,America,,Manaus,-4,-4,-4,-3.10194,-60.025
+,,,MF,America/Marigot,America,,Marigot,-4,-4,-4,18.07063,-63.08472
+,,,MQ,America/Martinique,America,,Martinique,-4,-4,-4,,
+,,,MX,America/Matamoros,America,,Matamoros,-6,-5,-6,,
+Mazatlan,-25200,(GMT-07:00) Mazatlan,MX,America/Mazatlan,America,,Mazatlan,-7,-6,-7,23.2329,-106.4062
+,,,US,America/Menominee,America,,Menominee,-6,-5,-6,,
+,,,MX,America/Merida,America,,Merida,-6,-5,-6,20.97537,-89.61696
+,,,US,America/Metlakatla,America,,Metlakatla,-8,-8,-8,,
+Mexico City,-21600,(GMT-06:00) Mexico City,MX,America/Mexico_City,America,,Mexico City,-6,-5,-6,19.42847,-99.12766
+,,,PM,America/Miquelon,America,,Miquelon,-3,-2,-3,,
+,,,CA,America/Moncton,America,,Moncton,-4,-3,-4,46.09454,-64.7965
+Monterrey,-21600,(GMT-06:00) Monterrey,MX,America/Monterrey,America,,Monterrey,-6,-5,-6,25.67507,-100.31847
+,,,UY,America/Montevideo,America,,Montevideo,-2,-3,-3,-34.90328,-56.18816
+,,,MS,America/Montserrat,America,,Montserrat,-4,-4,-4,,
+,,,BS,America/Nassau,America,,Nassau,-5,-4,-5,25.05823,-77.34306
+,,,US,America/New_York,America,,New York,-5,-4,-5,40.7127,-74.0059
+,,,CA,America/Nipigon,America,,Nipigon,-5,-4,-5,,
+,,,US,America/Nome,America,,Nome,-9,-8,-9,,
+,,,BR,America/Noronha,America,,Noronha,-2,-2,-2,,
+,,,US,America/North_Dakota/Beulah,America,North Dakota,Beulah,-6,-5,-6,,
+,,,US,America/North_Dakota/Center,America,North Dakota,Center,-6,-5,-6,,
+,,,US,America/North_Dakota/New_Salem,America,North Dakota,New Salem,-6,-5,-6,,
+,,,MX,America/Ojinaga,America,,Ojinaga,-7,-6,-7,29.56689,-104.54487
+,,,PA,America/Panama,America,,Panama,-5,-5,-5,8.9936,-79.51973
+,,,CA,America/Pangnirtung,America,,Pangnirtung,-5,-4,-5,,
+,,,SR,America/Paramaribo,America,,Paramaribo,-3,-3,-3,5.86638,-55.16682
+Arizona,-25200,(GMT-07:00) Arizona,US,America/Phoenix,America,,Phoenix,-7,-7,-7,33.44838,-112.07404
+,,,HT,America/Port-au-Prince,America,,Port-au-Prince,-5,-4,-5,18.53917,-72.335
+,,,TT,America/Port_of_Spain,America,,Port of Spain,-4,-4,-4,,
+,,,BR,America/Porto_Velho,America,,Porto Velho,-4,-4,-4,-8.76194,-63.90389
+,,,PR,America/Puerto_Rico,America,,Puerto Rico,-4,-4,-4,,
+,,,CA,America/Rainy_River,America,,Rainy River,-6,-5,-6,,
+,,,CA,America/Rankin_Inlet,America,,Rankin Inlet,-6,-5,-6,,
+,,,BR,America/Recife,America,,Recife,-3,-3,-3,-8.05389,-34.88111
+Saskatchewan,-21600,(GMT-06:00) Saskatchewan,CA,America/Regina,America,,Regina,-6,-6,-6,50.45008,-104.6178
+,,,CA,America/Resolute,America,,Resolute,-6,-5,-6,,
+,,,BR,America/Rio_Branco,America,,Rio Branco,-5,-5,-5,-9.97472,-67.81
+,,,MX,America/Santa_Isabel,America,,Santa Isabel,-8,-7,-8,,
+,,,BR,America/Santarem,America,,Santarem,-3,-3,-3,-2.44306,-54.70833
+Santiago,-10800,(GMT-03:00) Santiago,CL,America/Santiago,America,,Santiago,-3,-3,-3,-33.45694,-70.64827
+,,,DO,America/Santo_Domingo,America,,Santo Domingo,-4,-4,-4,18.50012,-69.98857
+,,,BR,America/Sao_Paulo,America,,Sao Paulo,-2,-3,-3,-23.5475,-46.63611
+,,,GL,America/Scoresbysund,America,,Scoresbysund,-1,0,-1,,
+,,,US,America/Sitka,America,,Sitka,-9,-8,-9,,
+,,,BL,America/St_Barthelemy,America,,St Barthelemy,-4,-4,-4,,
+,,,CA,America/St_Johns,America,,St Johns,-3.5,-2.5,-3.5,,
+,,,KN,America/St_Kitts,America,,St Kitts,-4,-4,-4,,
+,,,LC,America/St_Lucia,America,,St Lucia,-4,-4,-4,,
+,,,VI,America/St_Thomas,America,,St Thomas,-4,-4,-4,,
+,,,VC,America/St_Vincent,America,,St Vincent,-4,-4,-4,,
+,,,CA,America/Swift_Current,America,,Swift Current,-6,-6,-6,,
+,,,HN,America/Tegucigalpa,America,,Tegucigalpa,-6,-6,-6,14.0818,-87.20681
+,,,GL,America/Thule,America,,Thule,-4,-3,-4,,
+,,,CA,America/Thunder_Bay,America,,Thunder Bay,-5,-4,-5,48.38202,-89.25018
+Tijuana,-28800,(GMT-08:00) Tijuana,MX,America/Tijuana,America,,Tijuana,-8,-7,-8,32.5027,-117.00371
+,,,CA,America/Toronto,America,,Toronto,-5,-4,-5,43.70011,-79.4163
+,,,VG,America/Tortola,America,,Tortola,-4,-4,-4,18.43882,-64.60382
+,,,CA,America/Vancouver,America,,Vancouver,-8,-7,-8,49.24966,-123.11934
+,,,CA,America/Whitehorse,America,,Whitehorse,-8,-7,-8,60.71611,-135.05375
+,,,CA,America/Winnipeg,America,,Winnipeg,-6,-5,-6,49.8844,-97.14704
+,,,US,America/Yakutat,America,,Yakutat,-9,-8,-9,,
+,,,CA,America/Yellowknife,America,,Yellowknife,-7,-6,-7,62.456,-114.35255
+,,,AQ,Antarctica/Casey,Antarctica,,Casey,8,8,8,,
+,,,AQ,Antarctica/Davis,Antarctica,,Davis,7,7,7,,
+,,,AQ,Antarctica/DumontDUrville,Antarctica,,DumontDUrville,10,10,10,,
+,,,AU,Antarctica/Macquarie,Antarctica,,Macquarie,11,11,11,,
+,,,AQ,Antarctica/Mawson,Antarctica,,Mawson,5,5,5,,
+,,,AQ,Antarctica/McMurdo,Antarctica,,McMurdo,13,12,12,,
+,,,AQ,Antarctica/Palmer,Antarctica,,Palmer,-3,-3,-3,,
+,,,AQ,Antarctica/Rothera,Antarctica,,Rothera,-3,-3,-3,,
+,,,AQ,Antarctica/Syowa,Antarctica,,Syowa,3,3,3,,
+,,,AQ,Antarctica/Troll,Antarctica,,Troll,0,2,0,,
+,,,AQ,Antarctica/Vostok,Antarctica,,Vostok,6,6,6,,
+,,,SJ,Arctic/Longyearbyen,Arctic,,Longyearbyen,1,2,1,78.22334,15.64689
+,,,YE,Asia/Aden,Asia,,Aden,3,3,3,12.77944,45.03667
+Almaty,21600,(GMT+06:00) Almaty,KZ,Asia/Almaty,Asia,,Almaty,6,6,6,43.25654,76.92848
+,,,JO,Asia/Amman,Asia,,Amman,2,3,2,31.95522,35.94503
+,,,RU,Asia/Anadyr,Asia,,Anadyr,12,12,12,,
+,,,KZ,Asia/Aqtau,Asia,,Aqtau,5,5,5,,
+,,,KZ,Asia/Aqtobe,Asia,,Aqtobe,5,5,5,50.27969,57.20718
+,,,TM,Asia/Ashgabat,Asia,,Ashgabat,5,5,5,37.95,58.38333
+Baghdad,10800,(GMT+03:00) Baghdad,IQ,Asia/Baghdad,Asia,,Baghdad,3,3,3,33.34058,44.40088
+,,,BH,Asia/Bahrain,Asia,,Bahrain,3,3,3,,
+Baku,14400,(GMT+04:00) Baku,AZ,Asia/Baku,Asia,,Baku,4,5,4,40.37767,49.89201
+Bangkok,25200,(GMT+07:00) Bangkok,TH,Asia/Bangkok,Asia,,Bangkok,7,7,7,13.75398,100.50144
+,,,LB,Asia/Beirut,Asia,,Beirut,2,3,2,33.88894,35.49442
+,,,KG,Asia/Bishkek,Asia,,Bishkek,6,6,6,42.87,74.59
+,,,BN,Asia/Brunei,Asia,,Brunei,8,8,8,,
+,,,RU,Asia/Chita,Asia,,Chita,8,8,8,,
+,,,MN,Asia/Choibalsan,Asia,,Choibalsan,8,9,8,,
+,,,LK,Asia/Colombo,Asia,,Colombo,5.5,5.5,5.5,6.93194,79.84778
+,,,SY,Asia/Damascus,Asia,,Damascus,2,3,2,,
+Dhaka,21600,(GMT+06:00) Dhaka,BD,Asia/Dhaka,Asia,,Dhaka,6,6,6,23.7104,90.40744
+,,,TL,Asia/Dili,Asia,,Dili,9,9,9,-8.55861,125.57361
+,,,AE,Asia/Dubai,Asia,,Dubai,4,4,4,25.0657,55.17128
+,,,TJ,Asia/Dushanbe,Asia,,Dushanbe,5,5,5,38.53575,68.77905
+,,,PS,Asia/Gaza,Asia,,Gaza,2,3,2,31.5,34.46667
+,,,PS,Asia/Hebron,Asia,,Hebron,2,3,2,31.52935,35.0938
+,,,VN,Asia/Ho_Chi_Minh,Asia,,Ho Chi Minh,7,7,7,,
+Hong Kong,28800,(GMT+08:00) Hong Kong,HK,Asia/Hong_Kong,Asia,,Hong Kong,8,8,8,22.28552,114.15769
+,,,MN,Asia/Hovd,Asia,,Hovd,7,8,7,,
+Irkutsk,28800,(GMT+08:00) Irkutsk,RU,Asia/Irkutsk,Asia,,Irkutsk,8,8,8,52.29778,104.29639
+Jakarta,25200,(GMT+07:00) Jakarta,ID,Asia/Jakarta,Asia,,Jakarta,7,7,7,-6.21462,106.84513
+,,,ID,Asia/Jayapura,Asia,,Jayapura,9,9,9,-2.53371,140.71813
+Jerusalem,7200,(GMT+02:00) Jerusalem,IL,Asia/Jerusalem,Asia,,Jerusalem,2,3,2,31.76904,35.21633
+Kabul,16200,(GMT+04:30) Kabul,AF,Asia/Kabul,Asia,,Kabul,4.5,4.5,4.5,34.52813,69.17233
+Kamchatka,43200,(GMT+12:00) Kamchatka,RU,Asia/Kamchatka,Asia,,Kamchatka,12,12,12,57,160
+Karachi,18000,(GMT+05:00) Karachi,PK,Asia/Karachi,Asia,,Karachi,5,5,5,24.9056,67.0822
+Kathmandu,20700,(GMT+05:45) Kathmandu,NP,Asia/Kathmandu,Asia,,Kathmandu,5.75,5.75,5.75,27.70169,85.3206
+,,,RU,Asia/Khandyga,Asia,,Khandyga,9,9,9,,
+Kolkata,19800,(GMT+05:30) Kolkata,IN,Asia/Kolkata,Asia,,Kolkata,5.5,5.5,5.5,22.56263,88.36304
+Krasnoyarsk,25200,(GMT+07:00) Krasnoyarsk,RU,Asia/Krasnoyarsk,Asia,,Krasnoyarsk,7,7,7,56.01839,92.86717
+Kuala Lumpur,28800,(GMT+08:00) Kuala Lumpur,MY,Asia/Kuala_Lumpur,Asia,,Kuala Lumpur,8,8,8,3.1412,101.68653
+,,,MY,Asia/Kuching,Asia,,Kuching,8,8,8,1.55,110.33333
+Kuwait,10800,(GMT+03:00) Kuwait,KW,Asia/Kuwait,Asia,,Kuwait,3,3,3,29.366667,47.966667
+,,,MO,Asia/Macau,Asia,,Macau,8,8,8,22.20056,113.54611
+Magadan,36000,(GMT+10:00) Magadan,RU,Asia/Magadan,Asia,,Magadan,10,10,10,59.5638,150.80347
+,,,ID,Asia/Makassar,Asia,,Makassar,8,8,8,-5.14,119.4221
+,,,PH,Asia/Manila,Asia,,Manila,8,8,8,14.6042,120.9822
+Muscat,14400,(GMT+04:00) Muscat,OM,Asia/Muscat,Asia,,Muscat,4,4,4,23.61387,58.5922
+,,,CY,Asia/Nicosia,Asia,,Nicosia,2,3,2,35.17531,33.3642
+,,,RU,Asia/Novokuznetsk,Asia,,Novokuznetsk,7,7,7,53.7557,87.1099
+Novosibirsk,21600,(GMT+06:00) Novosibirsk,RU,Asia/Novosibirsk,Asia,,Novosibirsk,6,6,6,55.0415,82.9346
+,,,RU,Asia/Omsk,Asia,,Omsk,6,6,6,54.99244,73.36859
+,,,KZ,Asia/Oral,Asia,,Oral,5,5,5,51.23333,51.36667
+,,,KH,Asia/Phnom_Penh,Asia,,Phnom Penh,7,7,7,11.56245,104.91601
+,,,ID,Asia/Pontianak,Asia,,Pontianak,7,7,7,-0.03109,109.32199
+,,,KP,Asia/Pyongyang,Asia,,Pyongyang,9,9,8.5,39.03385,125.75432
+,,,QA,Asia/Qatar,Asia,,Qatar,3,3,3,,
+,,,KZ,Asia/Qyzylorda,Asia,,Qyzylorda,6,6,6,,
+Rangoon,23400,(GMT+06:30) Rangoon,MM,Asia/Rangoon,Asia,,Rangoon,6.5,6.5,6.5,16.85,96.183333
+Riyadh,10800,(GMT+03:00) Riyadh,SA,Asia/Riyadh,Asia,,Riyadh,3,3,3,24.68773,46.72185
+,,,RU,Asia/Sakhalin,Asia,,Sakhalin,10,10,10,,
+,,,UZ,Asia/Samarkand,Asia,,Samarkand,5,5,5,,
+Seoul,32400,(GMT+09:00) Seoul,KR,Asia/Seoul,Asia,,Seoul,9,9,9,37.566,126.9784
+,,,CN,Asia/Shanghai,Asia,,Shanghai,8,8,8,31.22222,121.45806
+Singapore,28800,(GMT+08:00) Singapore,SG,Asia/Singapore,Asia,,Singapore,8,8,8,1.28967,103.85007
+,,,RU,Asia/Srednekolymsk,Asia,,Srednekolymsk,11,11,11,,
+Taipei,28800,(GMT+08:00) Taipei,TW,Asia/Taipei,Asia,,Taipei,8,8,8,25.04776,121.53185
+Tashkent,18000,(GMT+05:00) Tashkent,UZ,Asia/Tashkent,Asia,,Tashkent,5,5,5,41.26465,69.21627
+Tbilisi,14400,(GMT+04:00) Tbilisi,GE,Asia/Tbilisi,Asia,,Tbilisi,4,4,4,41.69411,44.83368
+Tehran,12600,(GMT+03:30) Tehran,IR,Asia/Tehran,Asia,,Tehran,3.5,4.5,3.5,35.69439,51.42151
+,,,BT,Asia/Thimphu,Asia,,Thimphu,6,6,6,27.46609,89.64191
+Tokyo,32400,(GMT+09:00) Tokyo,JP,Asia/Tokyo,Asia,,Tokyo,9,9,9,35.6895,139.69171
+Ulaan Bataar,28800,(GMT+08:00) Ulaan Bataar,MN,Asia/Ulaanbaatar,Asia,,Ulaanbaatar,8,9,8,47.90771,106.88324
+Urumqi,21600,(GMT+06:00) Urumqi,CN,Asia/Urumqi,Asia,,Urumqi,6,6,6,43.825,87.6
+,,,RU,Asia/Ust-Nera,Asia,,Ust-Nera,10,10,10,,
+,,,LA,Asia/Vientiane,Asia,,Vientiane,7,7,7,17.96667,102.6
+Vladivostok,36000,(GMT+10:00) Vladivostok,RU,Asia/Vladivostok,Asia,,Vladivostok,10,10,10,43.10562,131.87353
+Yakutsk,32400,(GMT+09:00) Yakutsk,RU,Asia/Yakutsk,Asia,,Yakutsk,9,9,9,62.03389,129.73306
+Ekaterinburg,18000,(GMT+05:00) Ekaterinburg,RU,Asia/Yekaterinburg,Asia,,Yekaterinburg,5,5,5,56.8519,60.6122
+Yerevan,14400,(GMT+04:00) Yerevan,AM,Asia/Yerevan,Asia,,Yerevan,4,4,4,40.18111,44.51361
+Azores,-3600,(GMT-01:00) Azores,PT,Atlantic/Azores,Atlantic,,Azores,-1,0,-1,37.741111,-25.675556
+,,,BM,Atlantic/Bermuda,Atlantic,,Bermuda,-4,-3,-4,,
+,,,ES,Atlantic/Canary,Atlantic,,Canary,0,1,0,,
+,,,CV,Atlantic/Cape_Verde,Atlantic,,Cape Verde,-1,-1,-1,,
+,,,FO,Atlantic/Faroe,Atlantic,,Faroe,0,1,0,,
+,,,PT,Atlantic/Madeira,Atlantic,,Madeira,0,1,0,,
+,,,IS,Atlantic/Reykjavik,Atlantic,,Reykjavik,0,0,0,64.13548,-21.89541
+Mid-Atlantic,-7200,(GMT-02:00) Mid-Atlantic,GS,Atlantic/South_Georgia,Atlantic,,South Georgia,-2,-2,-2,-54.25,-36.75
+,,,SH,Atlantic/St_Helena,Atlantic,,St Helena,0,0,0,,
+,,,FK,Atlantic/Stanley,Atlantic,,Stanley,-3,-3,-3,-51.7,-57.85
+Adelaide,37800,(GMT+10:30) Adelaide,AU,Australia/Adelaide,Australia,,Adelaide,10.5,9.5,9.5,-34.92866,138.59863
+Brisbane,36000,(GMT+10:00) Brisbane,AU,Australia/Brisbane,Australia,,Brisbane,10,10,10,-27.46794,153.02809
+,,,AU,Australia/Broken_Hill,Australia,,Broken Hill,10.5,9.5,9.5,-31.96173,141.45998
+,,,AU,Australia/Currie,Australia,,Currie,11,10,10,,
+Darwin,34200,(GMT+09:30) Darwin,AU,Australia/Darwin,Australia,,Darwin,9.5,9.5,9.5,-12.46113,130.84185
+,,,AU,Australia/Eucla,Australia,,Eucla,8.75,8.75,8.75,,
+Hobart,39600,(GMT+11:00) Hobart,AU,Australia/Hobart,Australia,,Hobart,11,10,10,-42.87936,147.32941
+,,,AU,Australia/Lindeman,Australia,,Lindeman,10,10,10,,
+,,,AU,Australia/Lord_Howe,Australia,,Lord Howe,11,10.5,10.5,,
+Melbourne,39600,(GMT+11:00) Melbourne,AU,Australia/Melbourne,Australia,,Melbourne,11,10,10,-37.814,144.96332
+Perth,28800,(GMT+08:00) Perth,AU,Australia/Perth,Australia,,Perth,8,8,8,-31.95224,115.8614
+Sydney,39600,(GMT+11:00) Sydney,AU,Australia/Sydney,Australia,,Sydney,11,10,10,-33.86785,151.20732
+Amsterdam,3600,(GMT+01:00) Amsterdam,NL,Europe/Amsterdam,Europe,,Amsterdam,1,2,1,52.37403,4.88969
+,,,AD,Europe/Andorra,Europe,,Andorra,1,2,1,,
+Athens,7200,(GMT+02:00) Athens,GR,Europe/Athens,Europe,,Athens,2,3,2,37.97945,23.71622
+Belgrade,3600,(GMT+01:00) Belgrade,RS,Europe/Belgrade,Europe,,Belgrade,1,2,1,44.80401,20.46513
+Berlin,3600,(GMT+01:00) Berlin,DE,Europe/Berlin,Europe,,Berlin,1,2,1,52.52437,13.41053
+Bratislava,3600,(GMT+01:00) Bratislava,SK,Europe/Bratislava,Europe,,Bratislava,1,2,1,48.14816,17.10674
+Brussels,3600,(GMT+01:00) Brussels,BE,Europe/Brussels,Europe,,Brussels,1,2,1,50.85045,4.34878
+Bucharest,7200,(GMT+02:00) Bucharest,RO,Europe/Bucharest,Europe,,Bucharest,2,3,2,44.43225,26.10626
+Budapest,3600,(GMT+01:00) Budapest,HU,Europe/Budapest,Europe,,Budapest,1,2,1,47.49801,19.03991
+,,,DE,Europe/Busingen,Europe,,Busingen,1,2,1,,
+,,,MD,Europe/Chisinau,Europe,,Chisinau,2,3,2,47.00556,28.8575
+Copenhagen,3600,(GMT+01:00) Copenhagen,DK,Europe/Copenhagen,Europe,,Copenhagen,1,2,1,55.67594,12.56553
+Dublin,0,(GMT) Dublin,IE,Europe/Dublin,Europe,,Dublin,0,1,0,53.33306,-6.24889
+,,,GI,Europe/Gibraltar,Europe,,Gibraltar,1,2,1,36.14474,-5.35257
+,,,GG,Europe/Guernsey,Europe,,Guernsey,0,1,0,,
+Helsinki,7200,(GMT+02:00) Helsinki,FI,Europe/Helsinki,Europe,,Helsinki,2,3,2,60.16952,24.93545
+,,,IM,Europe/Isle_of_Man,Europe,,Isle of Man,0,1,0,,
+Istanbul,7200,(GMT+02:00) Istanbul,TR,Europe/Istanbul,Europe,,Istanbul,2,3,2,41.01384,28.94966
+,,,JE,Europe/Jersey,Europe,,Jersey,0,1,0,,
+,,,RU,Europe/Kaliningrad,Europe,,Kaliningrad,2,2,2,54.70649,20.51095
+Kyiv,7200,(GMT+02:00) Kyiv,UA,Europe/Kiev,Europe,,Kiev,2,3,2,50.45466,30.5238
+Kiev,7200,(GMT+02:00) Kiev,UA,Europe/Kiev,Europe,,Kiev,2,3,2,50.45466,30.5238
+Lisbon,0,(GMT) Lisbon,PT,Europe/Lisbon,Europe,,Lisbon,0,1,0,38.71667,-9.13333
+Ljubljana,3600,(GMT+01:00) Ljubljana,SI,Europe/Ljubljana,Europe,,Ljubljana,1,2,1,46.05108,14.50513
+UTC,0,(GMT) UTC,GB,Europe/London,Europe,,London,0,1,0,51.50853,-0.12574
+London,0,(GMT) London,GB,Europe/London,Europe,,London,0,1,0,51.50853,-0.12574
+,,,LU,Europe/Luxembourg,Europe,,Luxembourg,1,2,1,49.61167,6.13
+Madrid,3600,(GMT+01:00) Madrid,ES,Europe/Madrid,Europe,,Madrid,1,2,1,40.4165,-3.70256
+,,,MT,Europe/Malta,Europe,,Malta,1,2,1,,
+,,,AX,Europe/Mariehamn,Europe,,Mariehamn,2,3,2,60.09726,19.93481
+Minsk,10800,(GMT+03:00) Minsk,BY,Europe/Minsk,Europe,,Minsk,3,3,3,53.9,27.56667
+,,,MC,Europe/Monaco,Europe,,Monaco,1,2,1,43.73333,7.41667
+Moscow,10800,(GMT+03:00) Moscow,RU,Europe/Moscow,Europe,,Moscow,3,3,3,55.75,37.616667
+,,,NO,Europe/Oslo,Europe,,Oslo,1,2,1,59.91273,10.74609
+Paris,3600,(GMT+01:00) Paris,FR,Europe/Paris,Europe,,Paris,1,2,1,48.85341,2.3488
+,,,ME,Europe/Podgorica,Europe,,Podgorica,1,2,1,42.44111,19.26361
+Prague,3600,(GMT+01:00) Prague,CZ,Europe/Prague,Europe,,Prague,1,2,1,50.08804,14.42076
+Riga,7200,(GMT+02:00) Riga,LV,Europe/Riga,Europe,,Riga,2,3,2,56.946,24.10589
+Rome,3600,(GMT+01:00) Rome,IT,Europe/Rome,Europe,,Rome,1,2,1,41.9,12.5
+,,,RU,Europe/Samara,Europe,,Samara,4,4,4,53.20007,50.15
+,,,SM,Europe/San_Marino,Europe,,San Marino,1,2,1,43.93667,12.44639
+Sarajevo,3600,(GMT+01:00) Sarajevo,BA,Europe/Sarajevo,Europe,,Sarajevo,1,2,1,43.84864,18.35644
+,,,RU,Europe/Simferopol,Europe,,Simferopol,3,3,3,44.95719,34.11079
+Skopje,3600,(GMT+01:00) Skopje,MK,Europe/Skopje,Europe,,Skopje,1,2,1,41.99646,21.43141
+Sofia,7200,(GMT+02:00) Sofia,BG,Europe/Sofia,Europe,,Sofia,2,3,2,42.69751,23.32415
+Stockholm,3600,(GMT+01:00) Stockholm,SE,Europe/Stockholm,Europe,,Stockholm,1,2,1,59.33258,18.0649
+Tallinn,7200,(GMT+02:00) Tallinn,EE,Europe/Tallinn,Europe,,Tallinn,2,3,2,59.43696,24.75353
+,,,AL,Europe/Tirane,Europe,,Tirane,1,2,1,,
+,,,UA,Europe/Uzhgorod,Europe,,Uzhgorod,2,3,2,,
+,,,LI,Europe/Vaduz,Europe,,Vaduz,1,2,1,47.14151,9.52154
+,,,VA,Europe/Vatican,Europe,,Vatican,1,2,1,,
+Vienna,3600,(GMT+01:00) Vienna,AT,Europe/Vienna,Europe,,Vienna,1,2,1,48.20849,16.37208
+Vilnius,7200,(GMT+02:00) Vilnius,LT,Europe/Vilnius,Europe,,Vilnius,2,3,2,54.68916,25.2798
+Volgograd,10800,(GMT+03:00) Volgograd,RU,Europe/Volgograd,Europe,,Volgograd,3,3,3,48.71939,44.50183
+Warsaw,3600,(GMT+01:00) Warsaw,PL,Europe/Warsaw,Europe,,Warsaw,1,2,1,52.22977,21.01178
+Zagreb,3600,(GMT+01:00) Zagreb,HR,Europe/Zagreb,Europe,,Zagreb,1,2,1,45.81444,15.97798
+,,,UA,Europe/Zaporozhye,Europe,,Zaporozhye,2,3,2,,
+,,,CH,Europe/Zurich,Europe,,Zurich,1,2,1,47.36667,8.55
+,,,MG,Indian/Antananarivo,Indian,,Antananarivo,3,3,3,-18.91368,47.53613
+,,,IO,Indian/Chagos,Indian,,Chagos,6,6,6,,
+,,,CX,Indian/Christmas,Indian,,Christmas,7,7,7,,
+,,,CC,Indian/Cocos,Indian,,Cocos,6.5,6.5,6.5,,
+,,,KM,Indian/Comoro,Indian,,Comoro,3,3,3,,
+,,,TF,Indian/Kerguelen,Indian,,Kerguelen,5,5,5,,
+,,,SC,Indian/Mahe,Indian,,Mahe,4,4,4,,
+,,,MV,Indian/Maldives,Indian,,Maldives,5,5,5,,
+,,,MU,Indian/Mauritius,Indian,,Mauritius,4,4,4,,
+,,,YT,Indian/Mayotte,Indian,,Mayotte,3,3,3,,
+,,,RE,Indian/Reunion,Indian,,Reunion,4,4,4,,
+Samoa,-39600,(GMT-11:00) Samoa,WS,Pacific/Apia,Pacific,,Apia,14,13,13,-13.83333,-171.76666
+Auckland,46800,(GMT+13:00) Auckland,NZ,Pacific/Auckland,Pacific,,Auckland,13,12,12,-36.86667,174.76667
+,,,PG,Pacific/Bougainville,Pacific,,Bougainville,11,11,11,,
+,,,NZ,Pacific/Chatham,Pacific,,Chatham,13.75,12.75,12.75,,
+,,,FM,Pacific/Chuuk,Pacific,,Chuuk,10,10,10,,
+,,,CL,Pacific/Easter,Pacific,,Easter,-5,-5,-5,,
+,,,VU,Pacific/Efate,Pacific,,Efate,11,11,11,,
+,,,KI,Pacific/Enderbury,Pacific,,Enderbury,13,13,13,,
+,,,TK,Pacific/Fakaofo,Pacific,,Fakaofo,13,13,13,,
+Fiji,46800,(GMT+13:00) Fiji,FJ,Pacific/Fiji,Pacific,,Fiji,13,12,12,-18,179
+,,,TV,Pacific/Funafuti,Pacific,,Funafuti,12,12,12,-8.52425,179.19417
+,,,EC,Pacific/Galapagos,Pacific,,Galapagos,-6,-6,-6,,
+,,,PF,Pacific/Gambier,Pacific,,Gambier,-9,-9,-9,,
+,,,SB,Pacific/Guadalcanal,Pacific,,Guadalcanal,11,11,11,,
+Guam,36000,(GMT+10:00) Guam,GU,Pacific/Guam,Pacific,,Guam,10,10,10,13.5,144.8
+Hawaii,-36000,(GMT-10:00) Hawaii,US,Pacific/Honolulu,Pacific,,Honolulu,-10,-10,-10,21.30694,-157.85833
+,,,UM,Pacific/Johnston,Pacific,,Johnston,-10,-10,-10,,
+,,,KI,Pacific/Kiritimati,Pacific,,Kiritimati,14,14,14,,
+,,,FM,Pacific/Kosrae,Pacific,,Kosrae,11,11,11,,
+,,,MH,Pacific/Kwajalein,Pacific,,Kwajalein,12,12,12,,
+Marshall Is.,43200,(GMT+12:00) Marshall Is.,MH,Pacific/Majuro,Pacific,,Majuro,12,12,12,7.08971,171.38027
+,,,PF,Pacific/Marquesas,Pacific,,Marquesas,-9.5,-9.5,-9.5,,
+,,,UM,Pacific/Midway,Pacific,,Midway,-11,-11,-11,,
+,,,NR,Pacific/Nauru,Pacific,,Nauru,12,12,12,,
+,,,NU,Pacific/Niue,Pacific,,Niue,-11,-11,-11,,
+,,,NF,Pacific/Norfolk,Pacific,,Norfolk,11.5,11.5,11,,
+New Caledonia,39600,(GMT+11:00) New Caledonia,NC,Pacific/Noumea,Pacific,,Noumea,11,11,11,-22.27631,166.4572
+,,,AS,Pacific/Pago_Pago,Pacific,,Pago Pago,-11,-11,-11,-14.27806,-170.7025
+,,,PW,Pacific/Palau,Pacific,,Palau,9,9,9,,
+,,,PN,Pacific/Pitcairn,Pacific,,Pitcairn,-8,-8,-8,,
+,,,FM,Pacific/Pohnpei,Pacific,,Pohnpei,11,11,11,,
+Port Moresby,36000,(GMT+10:00) Port Moresby,PG,Pacific/Port_Moresby,Pacific,,Port Moresby,10,10,10,-9.44314,147.17972
+,,,CK,Pacific/Rarotonga,Pacific,,Rarotonga,-10,-10,-10,,
+,,,MP,Pacific/Saipan,Pacific,,Saipan,10,10,10,15.21233,145.7545
+,,,PF,Pacific/Tahiti,Pacific,,Tahiti,-10,-10,-10,,
+,,,KI,Pacific/Tarawa,Pacific,,Tarawa,12,12,12,1.3278,172.97696
+,,,TO,Pacific/Tongatapu,Pacific,,Tongatapu,13,13,13,,
+,,,UM,Pacific/Wake,Pacific,,Wake,12,12,12,,
+,,,WF,Pacific/Wallis,Pacific,,Wallis,12,12,12,,
